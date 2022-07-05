@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Samuel Perroni and I'm a Tech Lead RPA, from Brazil</h2>
+<h2 align="left">Hi 👋! My name is Samuel Perroni and I'm a RPA Solution Architect, from Brazil</h2>
 
 ###
 
